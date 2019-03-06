@@ -1,2 +1,5 @@
+/bin
+/tpasswd
+/tpasswd.conf
 /server.key
 /server.crt
